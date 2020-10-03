@@ -35,3 +35,11 @@ En el sistema DVCS de Git existen cuatro estados en los que un archivo puede enc
 | Archivos sin "rastrear" | Archivos rastreados sin modificar | Archivos rastreados modificados | Archivo rastreado sin nuevos cambios |
 
 Dentro de nuestro proyecto almacenado en una carpeta, vamos a tener que cualquier archivo dentro de la carpeta se va a encontrar en uno de esos cuatro estados.
+
+# Referencias 
+
+Para mayor información:
+
+- El libro oficial de Git en Español [aquí](https://git-scm.com/book/es/v2)
+- Guía rápida de comandos [aquí](https://learnxinyminutes.com/docs/es-es/git-es/)
+- Missing Semester MIT [aquí](https://missing.csail.mit.edu/2020/version-control/)
